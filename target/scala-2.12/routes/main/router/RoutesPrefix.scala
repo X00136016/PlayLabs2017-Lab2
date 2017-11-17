@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/wdd/webapps/PlayApps/HelloWorld/conf/routes
-// @DATE:Thu Nov 16 10:24:13 GMT 2017
+// @SOURCE:/home/wdd/webapps/play/HelloWorld/conf/routes
+// @DATE:Fri Nov 17 12:56:28 GMT 2017
 
 
 package router {
